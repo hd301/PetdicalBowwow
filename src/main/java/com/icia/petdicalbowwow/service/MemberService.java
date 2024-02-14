@@ -184,7 +184,7 @@ public class MemberService {
         // Content type 입력
         String contentType = "application/x-www-form-urlencoded;charset-utf-8";
         // REST API 키 입력
-        String clientId = "beb82237075bbae4f308ebdc707b3ffc";
+        String clientId = "clientId";
         // Redirect URI 입력
         String redirectUri = "http://localhost:9091/auth/kakao/callback";
         // Token 요청 주소 입력
